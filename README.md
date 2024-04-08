@@ -17,9 +17,13 @@ In VacationPy, the weather data obtained from WeatherPy is used to plan future v
 ### WeatherPy:
 
 - **Temperature vs. Latitude**: Strong negative correlation observed between latitude and max temperature, indicating that temperatures tend to decrease as distance from the equator increases.
+![Fig1](WeatherPy/output_data/Fig1.png)
 - **Humidity vs. Latitude**: Very weak to no correlation found between latitude and humidity.
+![Fig2](WeatherPy/output_data/Fig2.png)
 - **Cloudiness vs. Latitude**: Very weak to no correlation observed between latitude and cloudiness.
+![Fig3](WeatherPy/output_data/Fig3.png)
 - **Wind Speed vs. Latitude**: Weak correlation found between latitude and wind speed, suggesting that wind speed tends to slightly increase as distance from the equator increases.
+![Fig4](WeatherPy/output_data/Fig4.png)
 
 ### VacationPy:
 
